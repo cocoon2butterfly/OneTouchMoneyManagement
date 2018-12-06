@@ -1,0 +1,16 @@
+
+.login-form-inputs.ng-invalid.ng-touched{
+    border: 1px solid #ffdddd;
+}
+
+
+    .form-top-message{
+        margin-left: 190px;
+        margin-top: 20px;
+        padding: 6px;
+        border:  none;
+        
+        
+        
+        width: 460px;
+    }
